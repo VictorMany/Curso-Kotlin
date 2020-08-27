@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="informaci_n">Información</string>
+    <string name="captura_tu_nombre">Captura tu nombre</string>
+</resources>
